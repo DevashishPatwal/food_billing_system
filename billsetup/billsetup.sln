@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "billsetup", "billsetup\billsetup.vdproj", "{5E85517B-B1EB-4504-9F08-6AB57718B39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E85517B-B1EB-4504-9F08-6AB57718B39B}.Debug|Default.ActiveCfg = Debug
+		{5E85517B-B1EB-4504-9F08-6AB57718B39B}.Debug|Default.Build.0 = Debug
+		{5E85517B-B1EB-4504-9F08-6AB57718B39B}.Release|Default.ActiveCfg = Release
+		{5E85517B-B1EB-4504-9F08-6AB57718B39B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

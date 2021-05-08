@@ -1,0 +1,16 @@
+C:\Users\ME\Desktop\bill\bill\bin\Debug\bill.exe.config
+C:\Users\ME\Desktop\bill\bill\bin\Debug\data.accdb
+C:\Users\ME\Desktop\bill\bill\bin\Debug\bill.exe
+C:\Users\ME\Desktop\bill\bill\bin\Debug\bill.pdb
+C:\Users\ME\Desktop\bill\bill\bin\Debug\bill.xml
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\WindowsApplication1.finall.resources
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\WindowsApplication1.historyy.resources
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\WindowsApplication1.add.resources
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\WindowsApplication1.customer.resources
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\WindowsApplication1.updates.resources
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\bill.vbproj.GenerateResource.Cache
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\bill.exe
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\bill.xml
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\bill.pdb
+C:\Users\ME\Desktop\bill\bill\obj\x86\Debug\WindowsApplication1.index.resources
